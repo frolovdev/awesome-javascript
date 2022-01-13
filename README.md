@@ -73,6 +73,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [SDK](#sdk)
   * [Misc](#misc)
   * [Podcasts](#podcasts)
+* [Other](#other)
 * [Worth Reading](#worth-reading)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
@@ -1026,6 +1027,9 @@ https://listjs.com
 * [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
 * [Web of Tomorrow](http://www.weboftomorrowpodcast.com/) - Podcast about JavaScript for beginners.
 * [JavaScript Jabber](https://devchat.tv/show/javascript-jabber) - A weekly podcast about JavaScript, including Node.js, Front-End Technologies, Careers, Teams and more.
+ 
+ ## Other
+ [bestyjs](https://github.com/frolovdev/bestyjs) - The latest best practices for javascript repos in just one click.
 
 # Worth Reading
 
